@@ -24,7 +24,16 @@ _Marca con una "X" los aliados afectados_
 - [ ] Toma tu moto
 - [ ] Valcredito
 - [ ] Vantage
-
+- [ ] Credintegral
+- [ ] La Lonja
+- [ ] Coltefinanciera Remesas
+- [ ] Coltefinanciera Libranza
+- [ ] Alta Vehicle
+- [ ] FinFacil
+- [ ] Alta Originadora
+- [ ] Plan Autos Taller
+- [ ] Plan Autos Vehiculos
+- [ ] Mayi
 
 ## Checklist de Tipo de Funcionalidad
 _Marca con una "X" el tipo de funcionalidad que corresponde a este PR._
